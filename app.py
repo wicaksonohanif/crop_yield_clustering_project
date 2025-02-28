@@ -43,7 +43,7 @@ if page == "Home 🏠":
         <h1 style='text-align: center;'>🌾 Crop Yield Clustering Based on Rainfall & Temperature ☔📈</h1>
     """, unsafe_allow_html=True)
     st.markdown("---")
-    st.image("home_image.jpg", use_column_width=True)
+    st.image("home_image.jpg", use_container_width=True)
     st.markdown("**Dashboard Description:**")
     st.write("This dashboard contains information about the harvest results in several areas that are influenced by several internal and external factors. The main purpose of this dashboard is to review the grouping (Clusters) of the harvest results of a crop based on average rainfall and temperature.")
 

@@ -1,4 +1,4 @@
-# Crop Yield Clustering Dashboard 🚲
+# Crop Yield Clustering Dashboard 🌾
 
 ## Setup Environment - Anaconda
 

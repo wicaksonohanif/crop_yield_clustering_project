@@ -151,6 +151,9 @@ elif page == "Modeling & Evaluation 📊":
     plt.xticks(rotation=0)
     plt.tight_layout()
     st.pyplot(fig)
+
+    st.markdown(f"**Cluster-wise crop count:**") 
+    st.dataframe(cluster_counts)
     
     st.subheader("Cluster Statistics")
     for i in range(2):

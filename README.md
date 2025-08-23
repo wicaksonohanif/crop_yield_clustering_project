@@ -1,6 +1,6 @@
 # 🌾 Crop Yield Analysis and Clustering Dashboard using K-Means
 
-![Alt Text](assets/thumbnail_linreg.png)
+![Alt Text](thumbnail_clustering.png)
 
 ## 🔎 About
 This project focuses on the analysis and clustering of crop harvest results across several regions using the K-Means algorithm. The clustering is based on key environmental factors, particularly average rainfall and temperature, to better understand the influence of internal and external conditions on agricultural outcomes.

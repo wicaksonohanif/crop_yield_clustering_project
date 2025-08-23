@@ -19,12 +19,12 @@ https://cropyieldclusteringusingkmenas.streamlit.app/
 ## 📦 Dependencies
 |  Name  |  Version  |
 |--------|-----------|
-|[streamlit](https://pypi.org/project/streamlit/)|1.43.2|
-|[pandas](https://pypi.org/project/pandas/)|2.2.3|
-|[matplotlib](https://pypi.org/project/matplotlib/)|3.10.1|
+|[streamlit](https://pypi.org/project/streamlit/)|1.34.0|
+|[pandas](https://pypi.org/project/pandas/)|2.3.0|
+|[matplotlib](https://pypi.org/project/matplotlib/)|3.8.0|
 |[seaborn](https://pypi.org/project/seaborn/)|0.13.2|
-|[numpy](https://pypi.org/project/numpy/)|2.2.4|
-|[scikit-learn](https://pypi.org/project/scikit-learn/)|1.6.1|
+|[numpy](https://pypi.org/project/numpy/)|1.25.1|
+|[scikit-learn](https://pypi.org/project/scikit-learn/)|1.4.2|
 |[geopandas](https://pypi.org/project/geopandas/)|1.0.1|
 |[scipy](https://pypi.org/project/scipy/)|1.15.3|
 

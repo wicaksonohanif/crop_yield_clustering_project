@@ -13,7 +13,7 @@ https://cropyieldclusteringusingkmenas.streamlit.app/
 
 ## ✨ Features
 * Data overview, including dataset preview & shape, data type, and statistical summary.
-* Data visualization, including scatter plot, box plot, histogram, and geospatial plot.
+* Data visualization, including scatter plot, box plot, histogram, geospatial plot & heatmap.
 * Modeling and evaluation, including elbow plot and distribution & statistics of clustering result.
   
 ## 📦 Dependencies

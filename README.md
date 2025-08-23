@@ -1,4 +1,4 @@
-# 🌾 Crop Yield Analysis and Clustering Dashboard using K-Means
+# 🌾 Crop Yield Analysis and Clustering Dashboard using K-Means Algorithm
 
 ![Alt Text](thumbnail_clustering.png)
 

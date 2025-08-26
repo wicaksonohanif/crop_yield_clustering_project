@@ -36,4 +36,4 @@ https://cropyieldclusteringusingkmenas.streamlit.app/
 * Wicaksono Hanif Supriyanto
 
 ## 📚 References
-* Rishi Patel. Crop Yield Prediction Dataset. Kaggle. https://www.kaggle.com/datasets/patelris/crop-yield-prediction-dataset
+* Rishi Patel. Crop Yield Prediction Dataset. Kaggle. https://www.kaggle.com/datasets/patelris/crop-yield-prediction-dataset. Licensed under CC BY 4.0.
